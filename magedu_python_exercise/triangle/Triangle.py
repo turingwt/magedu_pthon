@@ -7,4 +7,4 @@ for i in range(1, 6):
         cur.append(pre[j-1] + pre[j])
     triangle.append(cur)
 print(triangle)
-
+#############################################################
