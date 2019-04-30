@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f335a3a-f764-4e66-b3cb-ba42c3261f97" name="Default Changelist" comment="" />
+    <list default="true" id="8f335a3a-f764-4e66-b3cb-ba42c3261f97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../string/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../string/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../string/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tt01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tt01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="138">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_30.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -31,6 +49,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -38,6 +59,7 @@
         <option value="$PROJECT_DIR$/Prime_number.py" />
         <option value="$PROJECT_DIR$/counter.py" />
         <option value="$PROJECT_DIR$/Triangle.py" />
+        <option value="$PROJECT_DIR$/04_30.py" />
       </list>
     </option>
   </component>
@@ -47,6 +69,7 @@
     <option name="width" value="1382" />
     <option name="height" value="753" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -56,13 +79,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="tt01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt01" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,11 +100,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../magedu/作业/homework/P21101-王庆灿/第二周" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,7 +124,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Triangle">
+  <component name="RunManager" selected="Python.04_30">
+    <configuration name="04_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tt01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_30.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Prime_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tt01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,6 +237,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04_30" />
         <item itemvalue="Python.Triangle" />
         <item itemvalue="Python.Prime_number" />
         <item itemvalue="Python.m1" />
@@ -225,11 +267,12 @@
       <workItem from="1554996686115" duration="112000" />
       <workItem from="1555054963851" duration="1301000" />
       <workItem from="1555077664394" duration="1302000" />
+      <workItem from="1556589664945" duration="4252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28755000" />
+    <option name="totallyTimeSpent" value="33007000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -242,13 +285,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4887097" weight="0.18683812" />
       <window_info id="Structure" order="1" sideWeight="0.5112903" side_tool="true" weight="0.18683812" />
       <window_info id="Favorites" order="2" sideWeight="0.50240386" side_tool="true" weight="0.17246597" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="22" y="266" width="1322" height="204" id="Run" order="2" type="SLIDING" weight="0.32903227" />
+      <window_info active="true" anchor="bottom" x="22" y="266" width="1322" height="204" id="Run" order="2" type="SLIDING" visible="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.4977307" weight="0.32903227" />
@@ -261,9 +305,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Debug" order="5" type="SLIDING" weight="0.35022694" />
+      <window_info anchor="right" id="Debug" order="5" type="SLIDING" weight="0.3698941" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +346,11 @@
           <line>1</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_30.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -311,8 +360,10 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/triangle$04_30.coverage" NAME="04_30 Coverage Results" MODIFIED="1556603299467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tt01$m1.coverage" NAME="m1 Coverage Results" MODIFIED="1554554339391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tt01$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1555078333366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/triangle$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1556596347006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tt01$Prime_number.coverage" NAME="Prime_number Coverage Results" MODIFIED="1554685809947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tt01$counter.coverage" NAME="counter Coverage Results" MODIFIED="1555056187339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -345,9 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../magedu/作业/homework/P21101-王庆灿/第二周/counter.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../magedu/作业/homework/P21101-王庆灿/第二周/counter.py" />
     <entry file="file://$PROJECT_DIR$/counter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -357,8 +406,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="138">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
